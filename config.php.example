@@ -1,0 +1,12 @@
+<?php
+# example
+return [
+    'db' => [
+        'host' => '127.0.0.1',
+        'name' => 'mydatabase',
+        'user' => 'myuser',
+        'pass' => 'mypass',
+        'charset' => 'utf8mb4',
+    ],
+    'base_url' => 'https://example.com/clk/',
+];
